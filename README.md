@@ -1,4 +1,4 @@
-![6vIk](https://github.com/user-attachments/assets/fb76da41-9c13-48c1-a1bc-cb96ccabb975)
+![QWsX (1)](https://github.com/user-attachments/assets/e52a0bf7-8277-4723-8464-11a84d42e0ea)
 - 👋 Hi, I’m @abderrahmane-laourf
 - 👀 I’m interested in full stack
 
