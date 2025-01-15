@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋! My name is abderrahmane laourf</h2>
+<h2 style ="border-radius = 15px" style ="overflow = hidden" align="center">Hi 👋! My name is abderrahmane laourf</h2>
 
 
 
