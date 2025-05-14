@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Tailowind/Tailowind-original.svg" height="30" alt=" Tailwind logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Bootstrap/Bootstrap-original.svg" height="30" alt=" Bootstrap logo"  />
   
   
 </div>
