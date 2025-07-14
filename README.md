@@ -16,7 +16,7 @@ const abderrahmane = {
   location: "Morocco",
   education: ["Technicien Spécialisé en Développement Digital", "1337 Pool"],
   learning: {
-    rightNow: ["ReactJS", "TailwindCSS", "TypeScript", "Advanced JS"],
+    rightNow: ["ReactJS", "TailwindCSS", "Advanced JS"],
     upNext: ["Node.js", "Express.js", "MongoDB"]
   },
   interests: {
