@@ -13,7 +13,6 @@
 // Web Dev, Cloud Computing, UI/UX, and the fascinating world of AI.
 
 const abderrahmane = {
-  pronouns: "he" | "him",
   location: "Morocco",
   education: ["Technicien Spécialisé en Développement Digital", "1337 Pool"],
   learning: {
