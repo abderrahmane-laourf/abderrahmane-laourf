@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/4L52qC0.gif" width="100%" alt="Futuristic Animated Banner"/>
-</div>
 
 <div align="center">
   <h1 align="center">Hi there, I'm Abderrahmane Laourf 👋</h1>
@@ -12,12 +9,8 @@
 ### 🚀 About Me
 
 ```javascript
-// I'm a passionate developer with a love for clean code and intuitive design.
-// My journey is driven by a curiosity for what's next, pushing me to explore 
-// Web Dev, Cloud Computing, UI/UX, and the fascinating world of AI.
 
 const abderrahmane = {
-  pronouns: "he" | "him",
   location: "Morocco",
   education: ["Technicien Spécialisé en Développement Digital", "1337 Pool"],
   learning: {
