@@ -11,15 +11,26 @@
 
 ### 🚀 About Me
 
-<p align="left">
-  I'm a passionate developer with a love for clean code and intuitive design. My journey in tech is driven by a curiosity for what's next, pushing me to explore everything from Web Development and Cloud Computing to UI/UX and the fascinating world of AI.
-</p>
+```javascript
+// I'm a passionate developer with a love for clean code and intuitive design.
+// My journey is driven by a curiosity for what's next, pushing me to explore 
+// Web Dev, Cloud Computing, UI/UX, and the fascinating world of AI.
 
--  🎓 **Education:** Technicien Spécialisé en Développement Digital, 1337 Pool, Baccalauréat Sciences Physiques.
-- 🌱 **Currently Learning:** Advanced JavaScript, TailwindCSS, TypeScript, and ReactJS.
-- 🎯 **Next Goals:** Mastering the MERN stack (Node.js, MongoDB, Express.js).
-- 🎲 **Hobbies:** Competitive Gaming, Creative Problem Solving, and Exploring new Tech Trends.
-
+const abderrahmane = {
+  pronouns: "he" | "him",
+  location: "Morocco",
+  education: ["Technicien Spécialisé en Développement Digital", "1337 Pool"],
+  learning: {
+    rightNow: ["ReactJS", "TailwindCSS", "TypeScript", "Advanced JS"],
+    upNext: ["Node.js", "Express.js", "MongoDB"]
+  },
+  interests: {
+    professional: ["Web Development", "UI/UX Design", "Cloud Computing", "AI"],
+    personal: ["Competitive Gaming", "Problem Solving", "Content Creation"]
+  },
+  challenge: "I'm always ready for the next one."
+};
+```
 ---
 
 ### 💻 My Tech Stack
