@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abderrahmane+Laourf;A+Web+Developer+from+Morocco;full_stack+developer." alt="Typing SVG" />
 </div>
 
----
 
 ### 🚀 About Me
 
