@@ -1,33 +1,29 @@
+<!-- Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=38BDF8&width=100%&height=150§ion=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abderrahmane+Laourf;A+Web+Developer+from+Morocco;A+Full-Stack+Developer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abderrahmane+Laourf;A+Full-Stack+Web+Developer;I+build+things+for+the+web." alt="Typing SVG" />
 </div>
-
-<!-- Top Wave Animation -->
-
 
 ---
 
 ### 🚀 About Me
 
-```javascript
-// I'm a passionate developer with a love for clean code and intuitive design.
-// My journey is driven by a curiosity for what's next, pushing me to explore 
-// Web Dev, Cloud Computing, UI/UX, and the fascinating world of AI.
+Je suis un développeur passionné qui transforme des idées en expériences web fluides et intuitives. Mon parcours est alimenté par une curiosité insatiable pour les nouvelles technologies, me poussant à explorer le développement web, le cloud, l'UI/UX et le monde fascinant de l'IA.
 
+```javascript
 const abderrahmane = {
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "React", "Node.js", "PHP"],
+  askMeAbout: ["web-dev", "tech-careers", "ui-ux-design", "competitive-gaming"],
+  architecture: "Clean Code, Responsive Design, and a good cup of tea.",
   location: "Morocco",
-  education: ["Technicien Spécialisé en Développement Digital", "1337 Pool"],
-  learning: {
-    rightNow: ["ReactJS", "TailwindCSS", "Advanced JS"],
-    upNext: ["Node.js", "Express.js", "MongoDB"]
+  education: {
+    technical: "Technicien Spécialisé en Développement Digital",
+    peerLearning: "1337 Coding School (Pool)"
   },
-  interests: {
-    professional: ["Web Development", "UI/UX Design", "Cloud Computing", "AI"],
-    personal: ["Competitive Gaming", "Problem Solving", "Content Creation"]
-  },
-  challenge: "I'm always ready for the next one."
+  challenge: "Actively seeking new challenges to solve.",
+  contact: "abderrahmanelaourf10@gmail.com"
 };
 ```
 ---
