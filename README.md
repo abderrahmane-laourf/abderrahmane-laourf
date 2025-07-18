@@ -1,9 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150§ion=header"/>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abderrahmane+Laourf;A+Web+Developer+from+Morocco;A+Full-Stack+Developer." alt="Typing SVG" />
 </div>
 
 <!-- Top Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150§ion=header"/>
 
 
 ---
