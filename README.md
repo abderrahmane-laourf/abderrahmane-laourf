@@ -6,7 +6,6 @@
 
 <!-- Top Wave Animation -->
 
-
 ---
 
 ### 🚀 About Me
